@@ -20,8 +20,8 @@
     },
     {
       "title": "Post Four",
-      "body": "This is the body",
-      "PublishedAt": "10-02-2021",
+      "body": "this is the test body",
+      "publishedAt": "2021-08-27",
       "id": 4
     }
   ],
